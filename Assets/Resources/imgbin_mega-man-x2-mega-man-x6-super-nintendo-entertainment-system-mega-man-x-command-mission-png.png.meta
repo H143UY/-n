@@ -1,0 +1,3902 @@
+fileFormatVersion: 2
+guid: ee4efdda2bf0cf54b9cf09d30b4b802d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_0
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 879
+        width: 8
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364655aef8cc96f45ab359b57651d0e4
+      internalID: 1967948430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 879
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e59ab067bab22a4d8ad87034fc88df5
+      internalID: 2075417987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 879
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973db4c945c649649af3d295a2c59fb3
+      internalID: 1996214062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_3
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 879
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0dfb29882751fd4c834498071f0395c
+      internalID: -776016993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_4
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 879
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7f2fecd67015841bf9f17d1a3776f8
+      internalID: 1895693163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 879
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6154f9568e6da49b488cd590dda0f7
+      internalID: -112416663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_6
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 879
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b8562c51e41aa48baf76c6583ba04d
+      internalID: -933242608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_7
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 879
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2661d5b056a47ac45a6bf7dd8bc6d880
+      internalID: 1062750726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_8
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 879
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c7a9d3f5dc99a48848d92b1c7aeae1
+      internalID: 50165060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_9
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 879
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04a081287711774aaabf6d400e22b68
+      internalID: 2140543526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_10
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 830
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02cf2a90d670584881338b83dec402e
+      internalID: 216567017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_11
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 830
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8629e0a84fb194e92938782794cc6f
+      internalID: -1919743106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_12
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 830
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd107d8a0f9dea418130c4301a458e6
+      internalID: -1961352630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_13
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 830
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd3dbbd49b1b8b409634ab5bcf664b0
+      internalID: 1927582070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_14
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 830
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5de892df444a6b4f8341b9dd790a7f0
+      internalID: -563492486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_15
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 830
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660434a2681537d41b109508268d4ea3
+      internalID: 929152519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_16
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 830
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a59e88463ec53428e3860cf0973042
+      internalID: -830327355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_17
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 830
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff02bfd33314a44d9a1a8d5e3e74241
+      internalID: -1059330330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_18
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 830
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a39806310fd2684d9062bd05aede3e2
+      internalID: -880979603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_19
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 789
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12f7f58e8c06b3468dfdaa3ba20aa57
+      internalID: 752205186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_20
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 789
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6252f993c1c63db4aae9bc3944c49197
+      internalID: -1950512348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_21
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 789
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663d26c281185014aa16dd728be5d4e1
+      internalID: -1738423364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_22
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 789
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994bf6e5a9bcb4149a1cc245bdb27331
+      internalID: 1104966889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_23
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 789
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162d59e03ff9e1348ae8636efb7415d3
+      internalID: 889445481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_24
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 789
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3734c5640e461b418f4d32c9f3eccb7
+      internalID: 1581125217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_25
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 789
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b8cd328f897ec478ef1e3359d35b68
+      internalID: 1699202690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_26
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 789
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b188608e9f006449172bdee699c44b
+      internalID: -340727465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_27
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 789
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee27bd1d7a3391448c74269a365f065
+      internalID: 1265161766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_28
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 789
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb7c27f013dcda4680359f5be89d789
+      internalID: 1069363672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_29
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 789
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a1d1557a5654642bf2def970c55aad
+      internalID: -1275037399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_30
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 741
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d8e5b87909ec34ca22c6c80b5f7024
+      internalID: 1953158413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_31
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 741
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2110b70036f76ef4592668d2d3cea5df
+      internalID: 408516701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_32
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 741
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a777860f5acfa84387d5b6ea01be59f
+      internalID: -1696723690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_33
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 741
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1422a6ff1ca064447a47666e510a4048
+      internalID: 19854698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_34
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 741
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63d6e0f43697024da00f5ae42f53929
+      internalID: 384821007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_35
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 741
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b18af2d8be54974196fc537b31a3f3a
+      internalID: 2098705378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_36
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 741
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6762a18d494584abd0300b832f8824
+      internalID: 1934923835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_37
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 741
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940fa9e933f6b7244b8e9d58a281bc80
+      internalID: 1488172696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_38
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 741
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff45043e71d84854b989526e35494330
+      internalID: -892767600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_39
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 741
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6300899ff056ec43aabd389413b8137
+      internalID: 1765501763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_40
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 741
+        width: 49
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083438cdda2ecba46982281a7d6c1a07
+      internalID: -1552730748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_41
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 704
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60971102c7114d4482cc5912d790b86
+      internalID: 1728446598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_42
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 703
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9ec39e8c7fea54b9609c8650bc8c6f
+      internalID: 181345319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_43
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 703
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42940302f802df43b510eef108483e3
+      internalID: -1189399043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_44
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 703
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200940febe0afc148b23112e71f40768
+      internalID: 301867734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_45
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 703
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73baf9e47ca690d4e9712d192f7e8e7f
+      internalID: 897156712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_46
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 703
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42687edbaa3dad541b32690ff5e558b7
+      internalID: 834189620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_47
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 703
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171c16edd6ed648428ca0e4dad4bec09
+      internalID: -1702887248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_48
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 703
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1852381f0faea4f9f1b3f14306cab7
+      internalID: -1930953757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_49
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 703
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6474cf0c6b11c4846b21d71b70838cd2
+      internalID: 1829527697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_50
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 703
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ecd5547cb6d0947bc9caa44cc8876a
+      internalID: 78760601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_51
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 703
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a2927c055a4d84d9a89a492bc76eb0
+      internalID: -1457838431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_52
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 661
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7a7f2378912314ba04085327495b00
+      internalID: 1590087342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_53
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 661
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756c393633b0e524daa2410a9d0e2c1d
+      internalID: 905753096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_54
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 661
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7165bdb02fb4e704bac7645e58ac2fe3
+      internalID: -1488439469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_55
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 661
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e786c21cb064b4b9b1110a25fafc9c
+      internalID: 1073508853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_56
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 660
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bdaec623dc6ef4292e2eff90be961c
+      internalID: -600429095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_57
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 660
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5fcb063eba8f04eb55403dd00fcfe3
+      internalID: -359120917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_58
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 660
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceef7da664db4d54fad8c8e8b18157c2
+      internalID: 573984162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_59
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 661
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab0f307ebccc904596cf79813de9aa1
+      internalID: -482573159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_60
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 661
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44836f66aa343c54fb940fd75aa0d797
+      internalID: 1048185728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_61
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 607
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8809557335b00864a8471337cd11ecd1
+      internalID: 499373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_62
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 607
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e823b81eeedff4945ac9284c0518e64e
+      internalID: 482282601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_63
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 606
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36882384f35dfd847a5c3a8a32af8a2e
+      internalID: -49470128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_64
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 606
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ff822e2bd31b54ead8c0d89e72f5c4
+      internalID: -1026248785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_65
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 609
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22229a6944802c844aee926625891231
+      internalID: 1935504136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_66
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 609
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e89eda4824ee04e92ca9d9fe6d1499
+      internalID: -495869309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_67
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 609
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a744a5ef617a91741bfa1de84f8a9985
+      internalID: 1395418709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_68
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 535
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785eba8ff9e7ade4b8e3d85616ce5b5a
+      internalID: -1454581358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_69
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 534
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c916dc83738c5428d2efe60a7bc028
+      internalID: -1100399682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_70
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 534
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977879b3f3c370c4a93aa1cca32f2445
+      internalID: 779023506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_71
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 534
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41afa0acd15f1f14e8a13883cad9a82c
+      internalID: 270092771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_72
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 534
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef9530a0bc21854d8ddf7de5c67bb77
+      internalID: 863508089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_73
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 534
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7e7816cafcb9e4a981b918a9f8f93c
+      internalID: 1012886052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_74
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 534
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab932d8df7dde14e912ef2d187c35c2
+      internalID: 635680529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_75
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 534
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bb1762c2fc9d64cafdfdde6889308c
+      internalID: -602349001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_76
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 534
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da7bc13535625942b3518c000db5509
+      internalID: 913384282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_77
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 534
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdce33e6a516b3c4880d451626b59d0a
+      internalID: 1878346555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_78
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 534
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e6442ce8fc6014eba8990d22237242
+      internalID: 505973055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_79
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 468
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db2732261bfce9438afb7cb35e88b5a
+      internalID: 824020559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_80
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 473
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfe406bdc091284e99bcba599955016
+      internalID: 665238279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_81
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 469
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119dc7aafaaf31d46baadfeec5c322ad
+      internalID: -551310192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_82
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 467
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f58376ee0eb73540bea626a0c9fb248
+      internalID: -1890841292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_83
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 468
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38647c49184fc634e8ab01da304501c4
+      internalID: 409132899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_84
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 467
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fee66e20dd98d4e83c7bfe6a37318d
+      internalID: 1976599941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_85
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 463
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832313aed3666f04c9ad31c6f44c60ae
+      internalID: -1301983146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_86
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 460
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da16d92b72dd96b47ab711debd2b0c8f
+      internalID: 1813528102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_87
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 461
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ae83f28493f6043b73e93935e0f773
+      internalID: -1343119515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_88
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 478
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5251cb8f8236d2643980cd46e9856983
+      internalID: -143233040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_89
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 461
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1b20bbfde2ca14c8a4dba0895d7d36
+      internalID: -1076878320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_90
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 459
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671b1ddef708e0444802f9b1173570a6
+      internalID: 2139853828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_91
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 416
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d050f2f607b1045acfc45d91a2f8b6
+      internalID: 153265557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_92
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 416
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf255bee26a81ea4a92f18d022d6d5a8
+      internalID: 912192510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_93
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 416
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8da009ef593c346bc8762ea493ee49
+      internalID: 1787822389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_94
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 416
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00804af6126d04a49b35d2121354e52e
+      internalID: -1894014283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_95
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 416
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3b23a67f1381241ab4e5c63dc2bba7
+      internalID: 598666482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_96
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 416
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97da9399403b6ec4bac0cdb2b2f1df94
+      internalID: -1988153755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_97
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 361
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2d997ff9caa2c48b71fff83b6856e5
+      internalID: -2052998716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_98
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 361
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0b8a72ff488374c8b1dc53489176aa
+      internalID: -840618737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_99
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 361
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e85dd5cffe2196418d1dab15c2d41aa
+      internalID: 1480866309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_100
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 361
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45eaec45373544249bdd643b2c00143c
+      internalID: 1544182920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_101
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 361
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6836fe72da6ada45b7d80c2207ef2b5
+      internalID: -54384251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_102
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 361
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854af1611816e8e4fbd3b24a4212e808
+      internalID: 65175030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_103
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 360
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c636e945112a00041b588b570a3cde6d
+      internalID: -69427464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_104
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 362
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e70c8f67613474a9245a70fbd5ff6e
+      internalID: 679956436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_105
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 361
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5fb5e28d3ad8c4f948dbe09cd0e9e0
+      internalID: 1010288298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_106
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 362
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d685324470bb2b4696ec09833098221
+      internalID: -1149561586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_107
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 304
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d39480485ca21d419d4097690ab6598
+      internalID: -803398932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_108
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 304
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4dea054172b2984d9877a0d0b680569
+      internalID: 319751759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_109
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 307
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f5a42080e1d9b44a08bb04a516e346
+      internalID: 401188871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_110
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 307
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f3e470c2225b24fbd4b8ac3f0ba2d4
+      internalID: 240955691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_111
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 304
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8635ea9c2301b4a91de355a60b8cc8
+      internalID: -1600346330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_112
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 316
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93fb292133c6cd41bf48cc1e1578824
+      internalID: -55676384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_113
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 321
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840334d41943eff48bbf8aab06cd45da
+      internalID: -743588135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_114
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 305
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c317dcfa0677846b81964a6df299f7
+      internalID: -245325939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_115
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 254
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69328f89677bee64a8d0b9e796592fc0
+      internalID: 1356580147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_116
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 254
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0241444f90ac8834da10b561363e5534
+      internalID: -1786849733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_117
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 254
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1ee651aea38944ea7538a39fb98934
+      internalID: -1741321674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_118
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 250
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35dc5aaaf0df3ec489d415dc33e50cf4
+      internalID: -743015437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_119
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 254
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b054f4a721f3a4185f4d01790c77ea
+      internalID: 681161684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_120
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 250
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6945861a56a44e346b3acdaa195cb047
+      internalID: -36412956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_121
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 254
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2715deeb232a99143bf63a04a31a838f
+      internalID: 96714645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_122
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 250
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1f49bb785ac95458ab3cb2ec635514
+      internalID: -1639355845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_123
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 254
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9d8e53a84a83f40bb978af4fe6a844
+      internalID: -866646747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_124
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 254
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d72f5c01317a2408473a6480dc2e39
+      internalID: 661394911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_125
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 254
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfface76f7821b41b3f5e2c4475f395
+      internalID: -235665076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_126
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 254
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37308af7e16db6e4a86f6d3ab47248fa
+      internalID: 1313088888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_127
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 192
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a27b448f9fe0da49b50632dd13dedeb
+      internalID: -2138195958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_128
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 192
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89996be0abe48f242b3fac277f7b7c1e
+      internalID: -476094081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_129
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 189
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8d79ecfcdf4084baf23de012a26710
+      internalID: 1250967491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_130
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 190
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc899bdb86e2d1540b9a9780c43cab52
+      internalID: -336807137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_131
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 190
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1967d11dd651fb4468d9e20e6d89a273
+      internalID: -446855128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_132
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 190
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc635cd0c640754e86481632848e189
+      internalID: -1056526822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_133
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 190
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bceabb6cdc790342839f0b6a2dd15eb
+      internalID: 528694412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_134
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 190
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7d8b75c6726b34587d113782652faf
+      internalID: -1857885002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_135
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 192
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6371bb1ecdf026b44a6eeb491e43872a
+      internalID: 1258598183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_136
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 192
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39647afea7e228040b168e12ec1c6003
+      internalID: -42286325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_137
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 193
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a6f7191a3e09540a0c6f60ea528d4d
+      internalID: -354359716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_138
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 184
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f53a2c64de972746b54c65c07c53833
+      internalID: -1293168000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_139
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 193
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7001b9816f4ef499b4d735e435f4f0
+      internalID: 1917516430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_140
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 130
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c16dc7533000f4caba7686ecb94e54
+      internalID: 719291535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_141
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 134
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660d6556b0d00594c97863706e2d2545
+      internalID: -1713393217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_142
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 131
+        width: 15
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecff9a2509ae1bc42ab8816802fa12d7
+      internalID: 879907516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_143
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 133
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a97cc6f0bc682844ae8dae1810df2e7
+      internalID: 1930124662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_144
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 136
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05690ad8f4b75bd4690a353ab7324706
+      internalID: -1562545414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_145
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 138
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb797822884f414680ed9068066121f
+      internalID: 874769659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_146
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 89
+        width: 90
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8755de021a47c459ad16f986bda137
+      internalID: 1171450525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_147
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 99
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38eb3bb0f22f46e4e83e8c83ceafd398
+      internalID: 1340673602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_148
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 94
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c248b500445e82843ac6db201c026aaa
+      internalID: 592041022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_149
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 90
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1736330cb5d43428c6719096fd9d76
+      internalID: 647362146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_150
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 86
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9db916c0b9251140889107e86f02864
+      internalID: -280149810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_151
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 89
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f244e6996dd2f49a89c4fb90f011b6
+      internalID: 213463520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_152
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 89
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29919a8dc38cd6144a4050d232d727bc
+      internalID: -1449508207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_153
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 89
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cde55c898b61ac45ab1b497e31404b5
+      internalID: 778674857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_154
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 89
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba50ac439d76a5f4084f4e5715a7a58d
+      internalID: 250505655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_155
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 47
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334b2129dd4f5a149a772abd64631039
+      internalID: 1058293033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_156
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 47
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8a1391fdb7de649917181e320b7e4e
+      internalID: -179675331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_157
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 47
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb84832056972d45bfcfdf5223bbc01
+      internalID: -1206822548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_158
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 47
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12f21317d1eba145ac524225768f52c
+      internalID: 131899880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_159
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 47
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5f2e7ade33190419df186dd9a23a15
+      internalID: -855501504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_160
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 47
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4aef057d92cad41a5d75b5cca9e3f3
+      internalID: -1019903615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_161
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 47
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28951b0264ce1de4dbdce6e72a7a0b14
+      internalID: 485432703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_162
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 50
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f76416d28969546b30c01b6ab91645
+      internalID: 1835472564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_163
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 50
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8334772b104e304d95831fe0a2111e1
+      internalID: -1441530741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_164
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 50
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2532ff6a27c70f4094985a654f2e4b2
+      internalID: 1619204979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_165
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 50
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ab56e35bfa5e24380a1af6c2a405ee
+      internalID: -2015545856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_166
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 50
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eeb802336879e24fa58f3e7d5a98f84
+      internalID: -1394002625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_167
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20aa8711e6e4b294495816ed0ddafc3e
+      internalID: 1216087392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_168
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 2
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31da0aef73f4dce4590ba845577766d5
+      internalID: -893876956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_169
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 5
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800d1cf39c2e1024e9d4b81582becdda
+      internalID: 1317392959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_170
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 8
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab036af7a9a6734cabfd1f049a885bf
+      internalID: 808232643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_0: 1967948430
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_1: 2075417987
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_10: 216567017
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_100: 1544182920
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_101: -54384251
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_102: 65175030
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_103: -69427464
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_104: 679956436
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_105: 1010288298
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_106: -1149561586
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_107: -803398932
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_108: 319751759
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_109: 401188871
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_11: -1919743106
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_110: 240955691
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_111: -1600346330
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_112: -55676384
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_113: -743588135
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_114: -245325939
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_115: 1356580147
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_116: -1786849733
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_117: -1741321674
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_118: -743015437
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_119: 681161684
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_12: -1961352630
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_120: -36412956
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_121: 96714645
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_122: -1639355845
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_123: -866646747
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_124: 661394911
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_125: -235665076
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_126: 1313088888
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_127: -2138195958
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_128: -476094081
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_129: 1250967491
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_13: 1927582070
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_130: -336807137
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_131: -446855128
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_132: -1056526822
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_133: 528694412
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_134: -1857885002
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_135: 1258598183
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_136: -42286325
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_137: -354359716
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_138: -1293168000
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_139: 1917516430
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_14: -563492486
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_140: 719291535
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_141: -1713393217
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_142: 879907516
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_143: 1930124662
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_144: -1562545414
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_145: 874769659
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_146: 1171450525
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_147: 1340673602
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_148: 592041022
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_149: 647362146
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_15: 929152519
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_150: -280149810
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_151: 213463520
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_152: -1449508207
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_153: 778674857
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_154: 250505655
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_155: 1058293033
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_156: -179675331
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_157: -1206822548
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_158: 131899880
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_159: -855501504
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_16: -830327355
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_160: -1019903615
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_161: 485432703
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_162: 1835472564
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_163: -1441530741
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_164: 1619204979
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_165: -2015545856
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_166: -1394002625
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_167: 1216087392
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_168: -893876956
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_169: 1317392959
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_17: -1059330330
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_170: 808232643
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_18: -880979603
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_19: 752205186
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_2: 1996214062
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_20: -1950512348
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_21: -1738423364
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_22: 1104966889
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_23: 889445481
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_24: 1581125217
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_25: 1699202690
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_26: -340727465
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_27: 1265161766
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_28: 1069363672
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_29: -1275037399
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_3: -776016993
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_30: 1953158413
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_31: 408516701
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_32: -1696723690
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_33: 19854698
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_34: 384821007
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_35: 2098705378
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_36: 1934923835
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_37: 1488172696
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_38: -892767600
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_39: 1765501763
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_4: 1895693163
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_40: -1552730748
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_41: 1728446598
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_42: 181345319
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_43: -1189399043
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_44: 301867734
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_45: 897156712
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_46: 834189620
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_47: -1702887248
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_48: -1930953757
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_49: 1829527697
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_5: -112416663
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_50: 78760601
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_51: -1457838431
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_52: 1590087342
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_53: 905753096
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_54: -1488439469
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_55: 1073508853
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_56: -600429095
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_57: -359120917
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_58: 573984162
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_59: -482573159
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_6: -933242608
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_60: 1048185728
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_61: 499373
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_62: 482282601
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_63: -49470128
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_64: -1026248785
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_65: 1935504136
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_66: -495869309
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_67: 1395418709
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_68: -1454581358
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_69: -1100399682
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_7: 1062750726
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_70: 779023506
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_71: 270092771
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_72: 863508089
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_73: 1012886052
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_74: 635680529
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_75: -602349001
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_76: 913384282
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_77: 1878346555
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_78: 505973055
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_79: 824020559
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_8: 50165060
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_80: 665238279
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_81: -551310192
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_82: -1890841292
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_83: 409132899
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_84: 1976599941
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_85: -1301983146
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_86: 1813528102
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_87: -1343119515
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_88: -143233040
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_89: -1076878320
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_9: 2140543526
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_90: 2139853828
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_91: 153265557
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_92: 912192510
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_93: 1787822389
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_94: -1894014283
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_95: 598666482
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_96: -1988153755
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_97: -2052998716
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_98: -840618737
+      imgbin_mega-man-x2-mega-man-x6-super-nintendo-entertainment-system-mega-man-x-command-mission-png_99: 1480866309
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

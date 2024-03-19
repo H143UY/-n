@@ -1,0 +1,1847 @@
+fileFormatVersion: 2
+guid: 15a38ccd78d8485469ea25853af41e1b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 13
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1299
+        width: 146
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0caca0b87b89f0042ab28498b9888345
+      internalID: 1145969422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_1
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1299
+        width: 148
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797fa2bd52db14046af25a3a7e9adb19
+      internalID: 1173957431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_2
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1299
+        width: 157
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa5dd793d06fd841b40fd52f82c42f3
+      internalID: -563612846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_3
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1299
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46c8bf184e90ae4bbfb545c74cecb79
+      internalID: -1334336089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_4
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1299
+        width: 134
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74666e4c3bdffa4887ef7005f7ca8c4
+      internalID: 375278998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_5
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1299
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336b5f07eaa0b714f838257a2e56fc87
+      internalID: -1780796544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_6
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1299
+        width: 123
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702ff8b82ac966b4594c68dc80f5c21c
+      internalID: -176383368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_7
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1299
+        width: 124
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c358b6cc812dae04a9c313eed1620b24
+      internalID: -2090682853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1154
+        width: 187
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9faeeca75fbe6674a9d25b9217859ae5
+      internalID: -125480973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_9
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1154
+        width: 195
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7e85422d067364aa25638cb44e22c2
+      internalID: 1284855890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_10
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1154
+        width: 199
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a56bdbc42632045ac3438ef20eea71
+      internalID: 101399502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_11
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1154
+        width: 139
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8994b92e26f45724da9901f1a1063af5
+      internalID: 208618537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_12
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1154
+        width: 141
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a55244460d9b004d990e7e8bf3ac265
+      internalID: 786667568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_13
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1154
+        width: 137
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95120bf79c171db478f069d9b9df5652
+      internalID: -1286493948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_14
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1154
+        width: 183
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc6e6eb731ba2d4a88459da13cd011a
+      internalID: -1646129628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 973
+        width: 187
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8229a4510c3f93f41b825d30bae02e0c
+      internalID: 1183762670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_16
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 973
+        width: 137
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241320a5a848c4442a02cad0eb9f65d9
+      internalID: -22577356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_17
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 973
+        width: 137
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8538de016d7034e9ddac9df8b329bf
+      internalID: -99928063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_18
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 973
+        width: 137
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06457745eddfc574b9db39127b7c9e8f
+      internalID: 422295214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_19
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 973
+        width: 137
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eeeb393d39dfe34c9de426be1ff2542
+      internalID: 544091755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_20
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 973
+        width: 137
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac1e8a50afb27a4595a93173582d070
+      internalID: -525229177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_21
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 973
+        width: 137
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6901fb86abb8d438b4806ede0e02e2
+      internalID: -253505127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_22
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 973
+        width: 137
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bb139c2bc7cf34c8e2f4dbbb90e414
+      internalID: 806213093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_25
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 776
+        width: 137
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf985b24bc41c4c408d12c5913f46730
+      internalID: -861125211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_37
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 776
+        width: 137
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9292015cd07d8d448958c23c87707a61
+      internalID: -2006393896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_57
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 776
+        width: 137
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccc65927cecd6245ab1d3cf5597fd89
+      internalID: 701833236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_59
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 776
+        width: 137
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fcb5ed8b9925e488199df07ad200ae
+      internalID: -185307531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_60
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 776
+        width: 137
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2298699decb3b0c47a2fec2ee67be247
+      internalID: -2043691639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_61
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 776
+        width: 137
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e291db10e11aee4fa0508f1061419b2
+      internalID: 513459247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_62
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 776
+        width: 137
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a29480c3b78c1c469c7c1b223830c48
+      internalID: -1453796811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_63
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 641
+        width: 214
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff31a7cf9e3e185418439c1a27bb398f
+      internalID: -1479239483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_64
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 641
+        width: 214
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794478b74a66bf74e8aed2bcd6627e56
+      internalID: 423947268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_66
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 641
+        width: 214
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c08aa0e1172ee4ca6cd132c0b34353
+      internalID: -426669028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_67
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 641
+        width: 214
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4deaec7e545e80b49bdc9230f1960331
+      internalID: -1632096197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_68
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 641
+        width: 214
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ce8ecd96d8a1743a93c7fe3567fc61
+      internalID: 1433883480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_69
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 486
+        width: 214
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfea40b0cca44744930a79a5b44bca9
+      internalID: 283309948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_70
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 486
+        width: 214
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf2e1cf86566904ca8f33b54dd4e9fc
+      internalID: -1461289621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_71
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 561
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ff4dc1ad419e140944f14162766529
+      internalID: -1047954212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_72
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 561
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9504a326891ecff498a7d87df028465a
+      internalID: 1892019775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_73
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 561
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219eb8e4a138e1c4b8aed02673da1a6f
+      internalID: -1023777848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_74
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 486
+        width: 190
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd2a99bd788d0244b60737ae43c6816
+      internalID: 789636428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_75
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 484
+        width: 207
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2838d434a59b3e844aada61e9848088a
+      internalID: 1226361757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_76
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 503
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1fb571e474d284387f02d1b5bd6cf1
+      internalID: 113285947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_77
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 503
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debf3d1fbd30d8445828e3ae27ff01c8
+      internalID: 1021128209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_78
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 504
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0507bdd724f8a984b88ae8fba8e23e67
+      internalID: 12788007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_79
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 503
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb355c994028a3c49b9f2875b518e326
+      internalID: 378692757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_80
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 484
+        width: 212
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d205879faddff48b353a6d701076e3
+      internalID: 529674765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_91
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 43
+        width: 73
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32ab3b388b5d5c40a07fe13b8b9a141
+      internalID: 1730141906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_198
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 145
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b66ef979bce0340a2643a03ee9e75f
+      internalID: -1213928455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_199
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 145
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b53005ea0c144a4587e9dc69598e577
+      internalID: 776116463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_218
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 161
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa652c6008dd64439a9d078cb564623
+      internalID: 965519032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_250
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 53
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3117124708d184fabe3092c14d528d
+      internalID: -783324035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_251
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 51
+        width: 68
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6b6dc18f39f424b932f566524b08f1
+      internalID: 59448830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_252
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 10
+        width: 92
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16196e5d9304f8b468b25caeb2f4ec53
+      internalID: 1540979185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_253
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 3
+        width: 112
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49354d324c70608428ed66278fb4d34e
+      internalID: 412406562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_254
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 27
+        width: 56
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef0ff7b9eea2d844b9d02649a7b41c7
+      internalID: -1001499245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_255
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 91
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab33a724cdb242f459160ec3af26004c
+      internalID: 2052586781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_257
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 82
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c6aea8f058b1e46a37bc46ba355422
+      internalID: 1739657348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_287
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 23
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b383a080ece4f4a80c6a7a10319297
+      internalID: -1562423624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_294
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 20
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d008820cc9697478e97b8846c0f235
+      internalID: -4916376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_65
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 755
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042d76be9d803e446a91e386d87fcf4a
+      internalID: 1390604629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_304
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 0
+        width: 86
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0a195324c73b949894aa3e55cf16e9
+      internalID: 1693732491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_29
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 17
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e271d79f2e7013547ac042d99f5da368
+      internalID: -1306960987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_30
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 14
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1271425b4b2a9c84cbcb517cbf63ed83
+      internalID: 1160799266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frost_walrus_by_zero_w_ddlteho_23
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 83
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3701a36cc5ae2e4ca24c9e63eefc4b8
+      internalID: -464965556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      frost_walrus_by_zero_w_ddlteho_0: 1145969422
+      frost_walrus_by_zero_w_ddlteho_1: 1173957431
+      frost_walrus_by_zero_w_ddlteho_10: 101399502
+      frost_walrus_by_zero_w_ddlteho_100: -562415044
+      frost_walrus_by_zero_w_ddlteho_101: 867818287
+      frost_walrus_by_zero_w_ddlteho_102: -887088173
+      frost_walrus_by_zero_w_ddlteho_103: 610066768
+      frost_walrus_by_zero_w_ddlteho_104: 1690466001
+      frost_walrus_by_zero_w_ddlteho_105: -1950090154
+      frost_walrus_by_zero_w_ddlteho_106: 123617417
+      frost_walrus_by_zero_w_ddlteho_107: 588091049
+      frost_walrus_by_zero_w_ddlteho_108: 914591169
+      frost_walrus_by_zero_w_ddlteho_109: -1570581660
+      frost_walrus_by_zero_w_ddlteho_11: 208618537
+      frost_walrus_by_zero_w_ddlteho_110: 449817603
+      frost_walrus_by_zero_w_ddlteho_111: -356594150
+      frost_walrus_by_zero_w_ddlteho_112: -1670178456
+      frost_walrus_by_zero_w_ddlteho_113: -1294406339
+      frost_walrus_by_zero_w_ddlteho_114: -1632338129
+      frost_walrus_by_zero_w_ddlteho_115: 849072136
+      frost_walrus_by_zero_w_ddlteho_116: -1301349523
+      frost_walrus_by_zero_w_ddlteho_117: 1817490452
+      frost_walrus_by_zero_w_ddlteho_118: 667868777
+      frost_walrus_by_zero_w_ddlteho_119: -646714102
+      frost_walrus_by_zero_w_ddlteho_12: 786667568
+      frost_walrus_by_zero_w_ddlteho_120: -1933556421
+      frost_walrus_by_zero_w_ddlteho_121: 1311936411
+      frost_walrus_by_zero_w_ddlteho_122: -1171920506
+      frost_walrus_by_zero_w_ddlteho_123: -1795166635
+      frost_walrus_by_zero_w_ddlteho_124: -1800446688
+      frost_walrus_by_zero_w_ddlteho_125: 1279243475
+      frost_walrus_by_zero_w_ddlteho_126: -1336104520
+      frost_walrus_by_zero_w_ddlteho_127: -1936786989
+      frost_walrus_by_zero_w_ddlteho_128: -141857802
+      frost_walrus_by_zero_w_ddlteho_129: 1225724069
+      frost_walrus_by_zero_w_ddlteho_13: -1286493948
+      frost_walrus_by_zero_w_ddlteho_130: -911058739
+      frost_walrus_by_zero_w_ddlteho_131: -1741258171
+      frost_walrus_by_zero_w_ddlteho_132: 1025313036
+      frost_walrus_by_zero_w_ddlteho_133: -372674392
+      frost_walrus_by_zero_w_ddlteho_134: 1748256299
+      frost_walrus_by_zero_w_ddlteho_135: -801670602
+      frost_walrus_by_zero_w_ddlteho_136: 1142610702
+      frost_walrus_by_zero_w_ddlteho_137: -732474318
+      frost_walrus_by_zero_w_ddlteho_138: 401203365
+      frost_walrus_by_zero_w_ddlteho_139: -1505250364
+      frost_walrus_by_zero_w_ddlteho_14: -1646129628
+      frost_walrus_by_zero_w_ddlteho_140: 1071281037
+      frost_walrus_by_zero_w_ddlteho_141: 2093763213
+      frost_walrus_by_zero_w_ddlteho_142: -716896560
+      frost_walrus_by_zero_w_ddlteho_143: -1400596950
+      frost_walrus_by_zero_w_ddlteho_144: -2053097223
+      frost_walrus_by_zero_w_ddlteho_145: 669570950
+      frost_walrus_by_zero_w_ddlteho_146: -2072454813
+      frost_walrus_by_zero_w_ddlteho_147: 773706480
+      frost_walrus_by_zero_w_ddlteho_148: -1574587892
+      frost_walrus_by_zero_w_ddlteho_149: -993764354
+      frost_walrus_by_zero_w_ddlteho_15: 1183762670
+      frost_walrus_by_zero_w_ddlteho_150: 1856683375
+      frost_walrus_by_zero_w_ddlteho_151: -547045193
+      frost_walrus_by_zero_w_ddlteho_152: 527519165
+      frost_walrus_by_zero_w_ddlteho_153: -1222182922
+      frost_walrus_by_zero_w_ddlteho_154: 691558520
+      frost_walrus_by_zero_w_ddlteho_155: -2106374071
+      frost_walrus_by_zero_w_ddlteho_156: 2080158430
+      frost_walrus_by_zero_w_ddlteho_157: -895355732
+      frost_walrus_by_zero_w_ddlteho_158: -1562814421
+      frost_walrus_by_zero_w_ddlteho_159: 1147952921
+      frost_walrus_by_zero_w_ddlteho_16: -22577356
+      frost_walrus_by_zero_w_ddlteho_160: -1512410337
+      frost_walrus_by_zero_w_ddlteho_161: 952404241
+      frost_walrus_by_zero_w_ddlteho_162: -1088123285
+      frost_walrus_by_zero_w_ddlteho_163: 1698400538
+      frost_walrus_by_zero_w_ddlteho_164: 1916036007
+      frost_walrus_by_zero_w_ddlteho_165: -1205534394
+      frost_walrus_by_zero_w_ddlteho_166: 365625065
+      frost_walrus_by_zero_w_ddlteho_167: -80691661
+      frost_walrus_by_zero_w_ddlteho_168: 863300431
+      frost_walrus_by_zero_w_ddlteho_169: 95711377
+      frost_walrus_by_zero_w_ddlteho_17: -99928063
+      frost_walrus_by_zero_w_ddlteho_170: 614492821
+      frost_walrus_by_zero_w_ddlteho_171: 40484023
+      frost_walrus_by_zero_w_ddlteho_172: -2042002689
+      frost_walrus_by_zero_w_ddlteho_173: -291012129
+      frost_walrus_by_zero_w_ddlteho_174: 884642863
+      frost_walrus_by_zero_w_ddlteho_175: 2029891093
+      frost_walrus_by_zero_w_ddlteho_176: -1732863418
+      frost_walrus_by_zero_w_ddlteho_177: 1886988224
+      frost_walrus_by_zero_w_ddlteho_178: -1250656152
+      frost_walrus_by_zero_w_ddlteho_179: 299514063
+      frost_walrus_by_zero_w_ddlteho_18: 422295214
+      frost_walrus_by_zero_w_ddlteho_180: 109007610
+      frost_walrus_by_zero_w_ddlteho_181: 255976628
+      frost_walrus_by_zero_w_ddlteho_182: -680582047
+      frost_walrus_by_zero_w_ddlteho_183: -403388060
+      frost_walrus_by_zero_w_ddlteho_184: -409702347
+      frost_walrus_by_zero_w_ddlteho_185: -934983762
+      frost_walrus_by_zero_w_ddlteho_186: -1078444972
+      frost_walrus_by_zero_w_ddlteho_187: 1764737750
+      frost_walrus_by_zero_w_ddlteho_188: 400065435
+      frost_walrus_by_zero_w_ddlteho_189: -1676945959
+      frost_walrus_by_zero_w_ddlteho_19: 544091755
+      frost_walrus_by_zero_w_ddlteho_190: -1123305438
+      frost_walrus_by_zero_w_ddlteho_191: 158139988
+      frost_walrus_by_zero_w_ddlteho_192: 275976499
+      frost_walrus_by_zero_w_ddlteho_193: -773939498
+      frost_walrus_by_zero_w_ddlteho_194: -273971157
+      frost_walrus_by_zero_w_ddlteho_195: 549986001
+      frost_walrus_by_zero_w_ddlteho_196: -359504453
+      frost_walrus_by_zero_w_ddlteho_197: 1410430718
+      frost_walrus_by_zero_w_ddlteho_198: -1213928455
+      frost_walrus_by_zero_w_ddlteho_199: 776116463
+      frost_walrus_by_zero_w_ddlteho_2: -563612846
+      frost_walrus_by_zero_w_ddlteho_20: -525229177
+      frost_walrus_by_zero_w_ddlteho_200: 823324712
+      frost_walrus_by_zero_w_ddlteho_201: 793728374
+      frost_walrus_by_zero_w_ddlteho_202: -2039179124
+      frost_walrus_by_zero_w_ddlteho_203: -2069015238
+      frost_walrus_by_zero_w_ddlteho_204: 1013712416
+      frost_walrus_by_zero_w_ddlteho_205: -860189263
+      frost_walrus_by_zero_w_ddlteho_206: -1227371062
+      frost_walrus_by_zero_w_ddlteho_207: 2033541097
+      frost_walrus_by_zero_w_ddlteho_208: -134350132
+      frost_walrus_by_zero_w_ddlteho_209: 477948720
+      frost_walrus_by_zero_w_ddlteho_21: -253505127
+      frost_walrus_by_zero_w_ddlteho_210: 835474374
+      frost_walrus_by_zero_w_ddlteho_211: 2054908250
+      frost_walrus_by_zero_w_ddlteho_212: 121602607
+      frost_walrus_by_zero_w_ddlteho_213: 1251943175
+      frost_walrus_by_zero_w_ddlteho_214: 1773828367
+      frost_walrus_by_zero_w_ddlteho_215: 759342548
+      frost_walrus_by_zero_w_ddlteho_216: 1112642091
+      frost_walrus_by_zero_w_ddlteho_217: -2040467624
+      frost_walrus_by_zero_w_ddlteho_218: 965519032
+      frost_walrus_by_zero_w_ddlteho_219: 2002008966
+      frost_walrus_by_zero_w_ddlteho_22: 806213093
+      frost_walrus_by_zero_w_ddlteho_220: 920108313
+      frost_walrus_by_zero_w_ddlteho_221: 177241462
+      frost_walrus_by_zero_w_ddlteho_222: 283213662
+      frost_walrus_by_zero_w_ddlteho_223: -92543481
+      frost_walrus_by_zero_w_ddlteho_224: -798324756
+      frost_walrus_by_zero_w_ddlteho_225: 1398823538
+      frost_walrus_by_zero_w_ddlteho_226: 1091767414
+      frost_walrus_by_zero_w_ddlteho_227: 1364575747
+      frost_walrus_by_zero_w_ddlteho_228: 497813485
+      frost_walrus_by_zero_w_ddlteho_229: -1412702587
+      frost_walrus_by_zero_w_ddlteho_23: -464965556
+      frost_walrus_by_zero_w_ddlteho_230: 834434278
+      frost_walrus_by_zero_w_ddlteho_231: -222405583
+      frost_walrus_by_zero_w_ddlteho_232: 552072595
+      frost_walrus_by_zero_w_ddlteho_233: -335917797
+      frost_walrus_by_zero_w_ddlteho_234: -55796771
+      frost_walrus_by_zero_w_ddlteho_235: -330606846
+      frost_walrus_by_zero_w_ddlteho_236: -922469190
+      frost_walrus_by_zero_w_ddlteho_237: -1341114958
+      frost_walrus_by_zero_w_ddlteho_238: 213836401
+      frost_walrus_by_zero_w_ddlteho_239: -585995970
+      frost_walrus_by_zero_w_ddlteho_24: 710639560
+      frost_walrus_by_zero_w_ddlteho_240: -763992623
+      frost_walrus_by_zero_w_ddlteho_241: -748696616
+      frost_walrus_by_zero_w_ddlteho_242: -1300855185
+      frost_walrus_by_zero_w_ddlteho_243: 78030960
+      frost_walrus_by_zero_w_ddlteho_244: -214112752
+      frost_walrus_by_zero_w_ddlteho_245: 2098216873
+      frost_walrus_by_zero_w_ddlteho_246: -330974688
+      frost_walrus_by_zero_w_ddlteho_247: -1837302564
+      frost_walrus_by_zero_w_ddlteho_248: -434823566
+      frost_walrus_by_zero_w_ddlteho_249: -327240686
+      frost_walrus_by_zero_w_ddlteho_25: -861125211
+      frost_walrus_by_zero_w_ddlteho_250: -783324035
+      frost_walrus_by_zero_w_ddlteho_251: 59448830
+      frost_walrus_by_zero_w_ddlteho_252: 1540979185
+      frost_walrus_by_zero_w_ddlteho_253: 412406562
+      frost_walrus_by_zero_w_ddlteho_254: -1001499245
+      frost_walrus_by_zero_w_ddlteho_255: 2052586781
+      frost_walrus_by_zero_w_ddlteho_256: 422792945
+      frost_walrus_by_zero_w_ddlteho_257: 1739657348
+      frost_walrus_by_zero_w_ddlteho_258: 1573325816
+      frost_walrus_by_zero_w_ddlteho_259: 890028329
+      frost_walrus_by_zero_w_ddlteho_26: 638939783
+      frost_walrus_by_zero_w_ddlteho_260: -930986551
+      frost_walrus_by_zero_w_ddlteho_261: -1201288672
+      frost_walrus_by_zero_w_ddlteho_262: 364643098
+      frost_walrus_by_zero_w_ddlteho_263: 262554718
+      frost_walrus_by_zero_w_ddlteho_264: 257024614
+      frost_walrus_by_zero_w_ddlteho_265: -505475277
+      frost_walrus_by_zero_w_ddlteho_266: 1435100827
+      frost_walrus_by_zero_w_ddlteho_267: -200429378
+      frost_walrus_by_zero_w_ddlteho_268: 2015617313
+      frost_walrus_by_zero_w_ddlteho_269: 789980120
+      frost_walrus_by_zero_w_ddlteho_27: -2139557069
+      frost_walrus_by_zero_w_ddlteho_270: -1404162450
+      frost_walrus_by_zero_w_ddlteho_271: -149142528
+      frost_walrus_by_zero_w_ddlteho_272: 1985633846
+      frost_walrus_by_zero_w_ddlteho_273: -1303858132
+      frost_walrus_by_zero_w_ddlteho_274: 544389330
+      frost_walrus_by_zero_w_ddlteho_275: 456031908
+      frost_walrus_by_zero_w_ddlteho_276: 790834123
+      frost_walrus_by_zero_w_ddlteho_277: 204494358
+      frost_walrus_by_zero_w_ddlteho_278: 1225776969
+      frost_walrus_by_zero_w_ddlteho_279: -1239140213
+      frost_walrus_by_zero_w_ddlteho_28: 808935105
+      frost_walrus_by_zero_w_ddlteho_280: -300357455
+      frost_walrus_by_zero_w_ddlteho_281: -1187273483
+      frost_walrus_by_zero_w_ddlteho_282: -1877767476
+      frost_walrus_by_zero_w_ddlteho_283: 371301178
+      frost_walrus_by_zero_w_ddlteho_284: 1480863743
+      frost_walrus_by_zero_w_ddlteho_285: 90206048
+      frost_walrus_by_zero_w_ddlteho_286: 354678085
+      frost_walrus_by_zero_w_ddlteho_287: -1562423624
+      frost_walrus_by_zero_w_ddlteho_288: -1448187531
+      frost_walrus_by_zero_w_ddlteho_289: -1188957577
+      frost_walrus_by_zero_w_ddlteho_29: -1306960987
+      frost_walrus_by_zero_w_ddlteho_290: -1578602638
+      frost_walrus_by_zero_w_ddlteho_291: -210896777
+      frost_walrus_by_zero_w_ddlteho_292: -1165210443
+      frost_walrus_by_zero_w_ddlteho_293: 202439988
+      frost_walrus_by_zero_w_ddlteho_294: -4916376
+      frost_walrus_by_zero_w_ddlteho_295: 1927070949
+      frost_walrus_by_zero_w_ddlteho_296: -1549744332
+      frost_walrus_by_zero_w_ddlteho_297: 1941191187
+      frost_walrus_by_zero_w_ddlteho_298: 2131853856
+      frost_walrus_by_zero_w_ddlteho_299: 1977846729
+      frost_walrus_by_zero_w_ddlteho_3: -1334336089
+      frost_walrus_by_zero_w_ddlteho_30: 1160799266
+      frost_walrus_by_zero_w_ddlteho_300: 1454491349
+      frost_walrus_by_zero_w_ddlteho_301: -293845552
+      frost_walrus_by_zero_w_ddlteho_302: -2048604738
+      frost_walrus_by_zero_w_ddlteho_303: 1699627151
+      frost_walrus_by_zero_w_ddlteho_304: 1693732491
+      frost_walrus_by_zero_w_ddlteho_305: 2022733685
+      frost_walrus_by_zero_w_ddlteho_306: 1149545635
+      frost_walrus_by_zero_w_ddlteho_307: 1931054100
+      frost_walrus_by_zero_w_ddlteho_308: 11069983
+      frost_walrus_by_zero_w_ddlteho_309: -1099814987
+      frost_walrus_by_zero_w_ddlteho_31: 1857251045
+      frost_walrus_by_zero_w_ddlteho_310: 1910506489
+      frost_walrus_by_zero_w_ddlteho_311: -1045323534
+      frost_walrus_by_zero_w_ddlteho_312: 157041924
+      frost_walrus_by_zero_w_ddlteho_313: -1531387726
+      frost_walrus_by_zero_w_ddlteho_314: 1357598806
+      frost_walrus_by_zero_w_ddlteho_315: -16424383
+      frost_walrus_by_zero_w_ddlteho_316: -242509207
+      frost_walrus_by_zero_w_ddlteho_317: -75519961
+      frost_walrus_by_zero_w_ddlteho_318: 1589124104
+      frost_walrus_by_zero_w_ddlteho_319: -1973337341
+      frost_walrus_by_zero_w_ddlteho_32: -935346643
+      frost_walrus_by_zero_w_ddlteho_320: -1563545021
+      frost_walrus_by_zero_w_ddlteho_321: 919616020
+      frost_walrus_by_zero_w_ddlteho_322: 1577076132
+      frost_walrus_by_zero_w_ddlteho_323: -1991128737
+      frost_walrus_by_zero_w_ddlteho_324: 1880449080
+      frost_walrus_by_zero_w_ddlteho_325: 288367875
+      frost_walrus_by_zero_w_ddlteho_326: -1604309384
+      frost_walrus_by_zero_w_ddlteho_327: 1602551893
+      frost_walrus_by_zero_w_ddlteho_328: -1131386386
+      frost_walrus_by_zero_w_ddlteho_329: 905749398
+      frost_walrus_by_zero_w_ddlteho_33: 802409031
+      frost_walrus_by_zero_w_ddlteho_330: 46153286
+      frost_walrus_by_zero_w_ddlteho_331: -1538581060
+      frost_walrus_by_zero_w_ddlteho_332: -1045707360
+      frost_walrus_by_zero_w_ddlteho_333: 902572413
+      frost_walrus_by_zero_w_ddlteho_334: -786607251
+      frost_walrus_by_zero_w_ddlteho_335: -2141583862
+      frost_walrus_by_zero_w_ddlteho_336: -114075898
+      frost_walrus_by_zero_w_ddlteho_337: 197259442
+      frost_walrus_by_zero_w_ddlteho_338: 862085127
+      frost_walrus_by_zero_w_ddlteho_339: -1090572086
+      frost_walrus_by_zero_w_ddlteho_34: -886020592
+      frost_walrus_by_zero_w_ddlteho_340: -1538346651
+      frost_walrus_by_zero_w_ddlteho_341: -955631657
+      frost_walrus_by_zero_w_ddlteho_35: -874755039
+      frost_walrus_by_zero_w_ddlteho_36: -815329100
+      frost_walrus_by_zero_w_ddlteho_37: -2006393896
+      frost_walrus_by_zero_w_ddlteho_38: 1249832754
+      frost_walrus_by_zero_w_ddlteho_39: -531290471
+      frost_walrus_by_zero_w_ddlteho_4: 375278998
+      frost_walrus_by_zero_w_ddlteho_40: -1572592075
+      frost_walrus_by_zero_w_ddlteho_41: -1991737674
+      frost_walrus_by_zero_w_ddlteho_42: -523253860
+      frost_walrus_by_zero_w_ddlteho_43: -1143590898
+      frost_walrus_by_zero_w_ddlteho_44: 2125472244
+      frost_walrus_by_zero_w_ddlteho_45: 1180785342
+      frost_walrus_by_zero_w_ddlteho_46: -1832727317
+      frost_walrus_by_zero_w_ddlteho_47: 1915388269
+      frost_walrus_by_zero_w_ddlteho_48: 1551979611
+      frost_walrus_by_zero_w_ddlteho_49: 201879516
+      frost_walrus_by_zero_w_ddlteho_5: -1780796544
+      frost_walrus_by_zero_w_ddlteho_50: -986000123
+      frost_walrus_by_zero_w_ddlteho_51: 839846314
+      frost_walrus_by_zero_w_ddlteho_52: 997872422
+      frost_walrus_by_zero_w_ddlteho_53: 1207910642
+      frost_walrus_by_zero_w_ddlteho_54: -749831415
+      frost_walrus_by_zero_w_ddlteho_55: -1362491762
+      frost_walrus_by_zero_w_ddlteho_56: -586295945
+      frost_walrus_by_zero_w_ddlteho_57: 701833236
+      frost_walrus_by_zero_w_ddlteho_58: -1085424956
+      frost_walrus_by_zero_w_ddlteho_59: -185307531
+      frost_walrus_by_zero_w_ddlteho_6: -176383368
+      frost_walrus_by_zero_w_ddlteho_60: -2043691639
+      frost_walrus_by_zero_w_ddlteho_61: 513459247
+      frost_walrus_by_zero_w_ddlteho_62: -1453796811
+      frost_walrus_by_zero_w_ddlteho_63: -1479239483
+      frost_walrus_by_zero_w_ddlteho_64: 423947268
+      frost_walrus_by_zero_w_ddlteho_65: 1390604629
+      frost_walrus_by_zero_w_ddlteho_66: -426669028
+      frost_walrus_by_zero_w_ddlteho_67: -1632096197
+      frost_walrus_by_zero_w_ddlteho_68: 1433883480
+      frost_walrus_by_zero_w_ddlteho_69: 283309948
+      frost_walrus_by_zero_w_ddlteho_7: -2090682853
+      frost_walrus_by_zero_w_ddlteho_70: -1461289621
+      frost_walrus_by_zero_w_ddlteho_71: -1047954212
+      frost_walrus_by_zero_w_ddlteho_72: 1892019775
+      frost_walrus_by_zero_w_ddlteho_73: -1023777848
+      frost_walrus_by_zero_w_ddlteho_74: 789636428
+      frost_walrus_by_zero_w_ddlteho_75: 1226361757
+      frost_walrus_by_zero_w_ddlteho_76: 113285947
+      frost_walrus_by_zero_w_ddlteho_77: 1021128209
+      frost_walrus_by_zero_w_ddlteho_78: 12788007
+      frost_walrus_by_zero_w_ddlteho_79: 378692757
+      frost_walrus_by_zero_w_ddlteho_8: -125480973
+      frost_walrus_by_zero_w_ddlteho_80: 529674765
+      frost_walrus_by_zero_w_ddlteho_81: 1879579985
+      frost_walrus_by_zero_w_ddlteho_82: -2051183026
+      frost_walrus_by_zero_w_ddlteho_83: -962467091
+      frost_walrus_by_zero_w_ddlteho_84: -1431073518
+      frost_walrus_by_zero_w_ddlteho_85: -225066162
+      frost_walrus_by_zero_w_ddlteho_86: -1176148227
+      frost_walrus_by_zero_w_ddlteho_87: 1928513551
+      frost_walrus_by_zero_w_ddlteho_88: 1815180359
+      frost_walrus_by_zero_w_ddlteho_89: 269014263
+      frost_walrus_by_zero_w_ddlteho_9: 1284855890
+      frost_walrus_by_zero_w_ddlteho_90: -1764182476
+      frost_walrus_by_zero_w_ddlteho_91: 1730141906
+      frost_walrus_by_zero_w_ddlteho_92: 434806186
+      frost_walrus_by_zero_w_ddlteho_93: -1112536227
+      frost_walrus_by_zero_w_ddlteho_94: 468524855
+      frost_walrus_by_zero_w_ddlteho_95: 1406338115
+      frost_walrus_by_zero_w_ddlteho_96: 1686968309
+      frost_walrus_by_zero_w_ddlteho_97: 1994025942
+      frost_walrus_by_zero_w_ddlteho_98: 884094353
+      frost_walrus_by_zero_w_ddlteho_99: -1035422926
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

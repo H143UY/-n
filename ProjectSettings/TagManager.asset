@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - san
+  - bulletplayer
+  - dan enemy
+  - Enemy
+  - saw
+  - Item heart
+  - mana
+  - money
+  - gai
+  - DiemA
+  - DiemB
+  - key
+  - bom
+  - start pos
+  - end pos
+  - Boss
+  - Diem 1
+  - Diem 2
+  - bua thor
+  - speed
+  - bos
+  - bullet bang
+  - door
+  - key take door
+  - NPC
+  - start
+  - end
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - player
+  - Water
+  - UI
+  - Enemy
+  - wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 1476526591
+    locked: 0
+  - name: something
+    uniqueID: 2308825427
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: cua so
+    uniqueID: 391110939
+    locked: 0
+  - name: san
+    uniqueID: 3263902535
+    locked: 0

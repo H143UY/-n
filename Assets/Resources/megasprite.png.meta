@@ -1,0 +1,2803 @@
+fileFormatVersion: 2
+guid: 373dd7fe6e19f3149ba821e7f84423cc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 23
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: megasprite_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1325
+        width: 21
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf7c2fb726b5194c83acb458b20c0c8
+      internalID: 1719870881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1325
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496daa73838565f4a8175da3b951fcc0
+      internalID: -273943083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1325
+        width: 78
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7e773944be3d741b9569c47d7f6e13
+      internalID: 418690141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_3
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1325
+        width: 79
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73044802fa22f80458dae65d03d7ac0e
+      internalID: -502441363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1325
+        width: 79
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006677d5c04ad20489239963714c8921
+      internalID: 1302933539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_5
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1325
+        width: 78
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87b330607f8f194d8ed3200a83c81f5
+      internalID: 106079633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_6
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1325
+        width: 79
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39f1f48b11417349aeaab442bef4ff7
+      internalID: -995260763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_7
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1325
+        width: 78
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b14a0e460a87fc4493f161b35ed210d
+      internalID: -1396844636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_8
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1325
+        width: 78
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29dec6f5e515f7d49937ebad0a61a565
+      internalID: 1555385657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_9
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1325
+        width: 79
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57b2e4143576a44e8c205a3dc80f863
+      internalID: -524457357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_10
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1322
+        width: 79
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bed7fde568a874d97bfbd1a3350ce6
+      internalID: -959116975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_11
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1322
+        width: 53
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cc893bb0c48cc498f027711a0a0ee9
+      internalID: 1316888844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_12
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1322
+        width: 61
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b57803bc7262c64a85ef5cab70988e7
+      internalID: 102676662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_13
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1322
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d505813103d32d4bab848a76b26fb59
+      internalID: -200018359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_14
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 1322
+        width: 88
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df659e35bcad29e4e8585a320e22d840
+      internalID: 763327092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_15
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1322
+        width: 70
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04d3ab4589f43742a20c458dbe4a6c6
+      internalID: 1817636620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_16
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 1322
+        width: 58
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6760fcab02497f341a1515e78da8e425
+      internalID: 597950947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_17
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 1322
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc13ed191629fd43bc416bce7d9acff
+      internalID: -1435263583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_18
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 1324
+        width: 77
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2451554a4a006ff488fb8a780f32fea9
+      internalID: -84575642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_19
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 1322
+        width: 75
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ed5395afe08c04886c2aff41557758
+      internalID: -1253123266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1178
+        width: 62
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47c486f2f993b147ad574bcc7ac4779
+      internalID: 1364281006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_21
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1178
+        width: 41
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb46f42e193bba47b722bfd5dc63e6c
+      internalID: 1238703585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_22
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1178
+        width: 51
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbda592dd88e7547bdc2204a09d8dee
+      internalID: -1975590946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_23
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1178
+        width: 61
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca30b0c4315919848a25bb820dd5ce16
+      internalID: -385750497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_24
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1178
+        width: 72
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280c52b5881ed8648b7efd23a8b52d17
+      internalID: -789616480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_25
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1178
+        width: 63
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9632da1dc9675f47ac0e43d4a17973d
+      internalID: -1851978931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_26
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1178
+        width: 80
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd599fb97e414054c8e412d2231bf3e4
+      internalID: -739440458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_27
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 1323
+        width: 89
+        height: 90
+      alignment: 9
+      pivot: {x: 5.154703, y: 0.87688714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d9740a669c65043bdb4fc4fd8a1107
+      internalID: -1503343988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_28
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1190
+        width: 77
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9de1a868e5e01543a5370950ea4e6de
+      internalID: -344477315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_29
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1190
+        width: 84
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60ab303e4a92814abd96d3fdf705295
+      internalID: 1000275251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_30
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1190
+        width: 91
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f1a0fa4a897ae4c8c8e55f4cea3158
+      internalID: -571959497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_31
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1190
+        width: 99
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7025068d5907645a696fa51a6198a8
+      internalID: -1814204014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_32
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 1190
+        width: 88
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6afaac9a185ec468f26cb9093c6caa
+      internalID: 742622393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_33
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1190
+        width: 82
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336314cceff3ed543812fd96a6872970
+      internalID: -1973514828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_34
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 1190
+        width: 86
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96090bd6d933f34691f5ec58dc2d105
+      internalID: 1426438131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_35
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1190
+        width: 92
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec0e8cb486d83448be54b5b32da42c0
+      internalID: -221617882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_36
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 1190
+        width: 96
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5d4ac18c9ff844c93443cbfaed9ae1
+      internalID: 1332738455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_37
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 1190
+        width: 92
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5bd967a5513f74c81fffd682435a08
+      internalID: 711762136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_38
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1056
+        width: 75
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6885ad519d5104840a5ba0c890bc3ad9
+      internalID: -30973434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_39
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1056
+        width: 64
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87789e4fb0b083d4189427d9897f2b5f
+      internalID: 1731307750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_40
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1056
+        width: 71
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eeac6042400e8244a0db3f7e7e241b7
+      internalID: -586205704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_41
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1056
+        width: 82
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa4ceb73c842fa49bd4a370620a0365
+      internalID: 1752101126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_42
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1055
+        width: 81
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8333f6a17c6b034b8436ffc611b05d8
+      internalID: -1003239540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_43
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1056
+        width: 94
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8b98c5d20a3744d9b4fb59724208ca
+      internalID: -527732514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_44
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1159
+        width: 132
+        height: 129
+      alignment: 9
+      pivot: {x: -1.5553639, y: 1.8962688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f49e3117ded87d4b8c8181fd7b7bc53
+      internalID: 516823848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_45
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1056
+        width: 99
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eca29b6cb418b0448b80bb25ac5efe2
+      internalID: 2142310963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_46
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1059
+        width: 100
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd41b80d246e2f949b09c0e19ada3c6d
+      internalID: 1915842919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_47
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1059
+        width: 127
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34943ff3a04371c43a0b0ccd8a196203
+      internalID: 1140903306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_48
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 1043
+        width: 73
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed0205b1f5a32c4b8c91509a4f80633
+      internalID: -25299051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_49
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 1043
+        width: 76
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e61ec5517fafc349b174c8f4f2647db
+      internalID: -1758660571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_50
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 1043
+        width: 88
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f122628957fe74429ca5fa0fb215bc3
+      internalID: 1831056871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_51
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1043
+        width: 77
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ed61cdc616dcd458e29c52e3f500e4
+      internalID: -1563508285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_52
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 1043
+        width: 82
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27c78d0732932147ba84ba0dda95821
+      internalID: 1331025797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_53
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 947
+        width: 79
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41be5928ce48ba4b8a8bba5a438c798
+      internalID: 87115967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_54
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 947
+        width: 76
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c254c346b51c441afb87651d9ab194
+      internalID: 1054061262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_55
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 947
+        width: 79
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d358da322ba04e40aa6ccc5bc446ca5
+      internalID: -1758749085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_56
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 947
+        width: 78
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cd64fe83323ff46ab548e769707a25
+      internalID: 22298445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_57
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 947
+        width: 78
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e1600990c19ea43a6254d2f6a7e78f
+      internalID: 2089847887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_58
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 947
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60191f09ecbb184983ccdee8a69f092
+      internalID: 485079655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_59
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 947
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c8fd935220d274faea616aae51853f
+      internalID: -1577216034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_60
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 947
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e0d78b15551104aa66721159b80944
+      internalID: 82139544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_61
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 947
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d33ae04702c74443b099840d7f49207
+      internalID: -844575362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_64
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 812
+        width: 66
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bded57cf9d68804f8e59d9e3d773eeb
+      internalID: -1865505334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_65
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 812
+        width: 72
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aea4779b31d96f44a0af2cec11f6c57
+      internalID: -1020641554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_66
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 812
+        width: 74
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0a92bf4a54e7b49a4a49815cd4eed8
+      internalID: 1046326459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_67
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 812
+        width: 79
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f023edff0d558c4781c2fdcfd01d0f8
+      internalID: 1542709310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_68
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 812
+        width: 71
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227b163860b5413419ee74495fc3efcc
+      internalID: 307711244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_69
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 797
+        width: 56
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4212b15a589498041a74d28d8501bfb0
+      internalID: 101907028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_70
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 797
+        width: 49
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210f6d3658554534f8585846a21a29e3
+      internalID: -1356434282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_71
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 805
+        width: 54
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce45c90fdb5a654fa0ade9d1936927d
+      internalID: -499173872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_72
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 805
+        width: 53
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1905ea347112d974d9209a055019d9ef
+      internalID: 938282198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_73
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 797
+        width: 48
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d047e4b6c491b7498787433558022ad
+      internalID: 630868022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_74
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 828
+        width: 57
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2363c8366331a145999f23c455ec41b
+      internalID: 1520962192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_75
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 840
+        width: 48
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a63a5fdec8484e4ebe6d7c31d5e5a80
+      internalID: 1128027821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_76
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 800
+        width: 69
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f6657fe5e2e964ea5d2df9ae392b25
+      internalID: -949421555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_77
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 693
+        width: 81
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad661bedd1c9f94a8d9d2033e5f1dcd
+      internalID: -1495437868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_78
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 691
+        width: 83
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafe71c07e0901e479fe6f17182b5b62
+      internalID: 1680456134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_79
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 695
+        width: 85
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb68dd6353d0ded40bafde0a066c7590
+      internalID: -777103994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_80
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 693
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2245353a14013214fa72eb07ce015106
+      internalID: 490262972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_81
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 695
+        width: 86
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e969f4a1e2b7124595c03bc7eddd0cd
+      internalID: -1187560394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_82
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 563
+        width: 69
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d7aefe83b9ace44aa7f55300049c74
+      internalID: 2063872162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_83
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 563
+        width: 76
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d22da97a4cb370409e51a37cbed47d4
+      internalID: 299498377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_84
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 563
+        width: 76
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d8f22fca23d8644b14433c8b613685
+      internalID: 1424524783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_85
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 554
+        width: 84
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ab67b8cb50d924dae6474b918e8059
+      internalID: 1932607306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_86
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 563
+        width: 76
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267ea393abf397e49a1fb3f8e2f2f52d
+      internalID: -160019077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_87
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 554
+        width: 84
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585b6439cbcb1704a82b2fd028b6a501
+      internalID: -664867915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_88
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 563
+        width: 75
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cd36d3b2041ca41b7fe30a8f601651
+      internalID: 546964038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_89
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 554
+        width: 84
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8fea4a629d3754ba6317ba1a82b9b2
+      internalID: 188634951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_90
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 563
+        width: 76
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a016f78aa4d87f049b3515ce43bb1946
+      internalID: 204717033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_91
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 617
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc527a66aa257b45bcf6cd59b626c87
+      internalID: -1553518255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_92
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 563
+        width: 76
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f97a547706e0454d8d3697e246329ae
+      internalID: -1123024704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_93
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 563
+        width: 68
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fdab73499873e4d95b6c4957b5b263
+      internalID: -1424413383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_94
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1053
+        width: 73
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708e60eb8d68a0643affa7f9112dc949
+      internalID: 864158501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_95
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 485
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4369c90ff88f5f1439476973ac1d5c6c
+      internalID: 1063366854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_96
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 475
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0c10e566f42964aaf0fc3f219fef2d
+      internalID: 18435705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_97
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 462
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4724501f5ffe098498c00b35ca7e80db
+      internalID: 859039592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_98
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 475
+        width: 74
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d261010ff41144b91921c34801b07c
+      internalID: -1297563009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_99
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 483
+        width: 84
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4212afbb47bc02f42b69738c078b19f2
+      internalID: 373125914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_100
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 478
+        width: 99
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1911097befc4d9b4ea5885eac19adc85
+      internalID: 1864519241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_101
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 475
+        width: 104
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285509b86a152ba479625e09c5110df1
+      internalID: -236797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_102
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 467
+        width: 93
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fb543605f01e9428f72ae60f5bf21a
+      internalID: 88548579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_103
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 374
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95652ffe43a1b8e4eb09d61892fa6124
+      internalID: -255817778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_104
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 378
+        width: 62
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256448337f4141b45adc615b2ca54209
+      internalID: -336899154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_105
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 363
+        width: 71
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f8ebc9d6095e94688b7694d3b39478
+      internalID: -1834029795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_106
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 355
+        width: 104
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9daf6b85f29b5bb4b86b14a31522e6e6
+      internalID: -107016764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_107
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 353
+        width: 85
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78574b6469eec745918e9b64620cb80
+      internalID: 881105602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_108
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 298
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ab3426fb516b9409a9b22c020cd437
+      internalID: 1033738314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_109
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 313
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70a580485c1fac4c9b8c1e07652885e
+      internalID: -807014689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_110
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 249
+        width: 88
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58595b6c5c361314f94bce35c1e30a4f
+      internalID: -1927348045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_111
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 247
+        width: 104
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5cf561f3cdb14040b9805ee36069871
+      internalID: -1294038269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_112
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 247
+        width: 119
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae12f83a67048d41b842abad122e279
+      internalID: -749810195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_113
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 259
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376e519294c63cf45b6cdb9328ca3951
+      internalID: 1785415573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_114
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 180
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c445388a5652814cbd11441943e53d0
+      internalID: -1752276466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_115
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 183
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff59ab7b692aec4fb4ee2a47ab837e5
+      internalID: -1236591982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_116
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 121
+        width: 119
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77bcdc52a1b9a34597ebf00b0e7610b
+      internalID: -1934492061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_117
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 124
+        width: 118
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5f8bcb43954184aaf75b97f81fe289
+      internalID: 263331725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_118
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 122
+        width: 109
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fb59f3c366348458aeccdf1f640149
+      internalID: 1907233987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_119
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 158
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc14650e3e8e7b49965dd1537366d46
+      internalID: 320195162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_120
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 142
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297e2ab4dcb07f24dbec91913309d9d0
+      internalID: 2041844413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_121
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 41
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e879a6d0ea775a4a92d194640448df2
+      internalID: -813523771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megasprite_62
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 723
+        width: 298
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5a665ce63ef30479b331361da36b35
+      internalID: -592048278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      megasprite_0: 1719870881
+      megasprite_1: -273943083
+      megasprite_10: -959116975
+      megasprite_100: 1864519241
+      megasprite_101: -236797
+      megasprite_102: 88548579
+      megasprite_103: -255817778
+      megasprite_104: -336899154
+      megasprite_105: -1834029795
+      megasprite_106: -107016764
+      megasprite_107: 881105602
+      megasprite_108: 1033738314
+      megasprite_109: -807014689
+      megasprite_11: 1316888844
+      megasprite_110: -1927348045
+      megasprite_111: -1294038269
+      megasprite_112: -749810195
+      megasprite_113: 1785415573
+      megasprite_114: -1752276466
+      megasprite_115: -1236591982
+      megasprite_116: -1934492061
+      megasprite_117: 263331725
+      megasprite_118: 1907233987
+      megasprite_119: 320195162
+      megasprite_12: 102676662
+      megasprite_120: 2041844413
+      megasprite_121: -813523771
+      megasprite_13: -200018359
+      megasprite_14: 763327092
+      megasprite_15: 1817636620
+      megasprite_16: 597950947
+      megasprite_17: -1435263583
+      megasprite_18: -84575642
+      megasprite_19: -1253123266
+      megasprite_2: 418690141
+      megasprite_20: 1364281006
+      megasprite_21: 1238703585
+      megasprite_22: -1975590946
+      megasprite_23: -385750497
+      megasprite_24: -789616480
+      megasprite_25: -1851978931
+      megasprite_26: -739440458
+      megasprite_27: -1503343988
+      megasprite_28: -344477315
+      megasprite_29: 1000275251
+      megasprite_3: -502441363
+      megasprite_30: -571959497
+      megasprite_31: -1814204014
+      megasprite_32: 742622393
+      megasprite_33: -1973514828
+      megasprite_34: 1426438131
+      megasprite_35: -221617882
+      megasprite_36: 1332738455
+      megasprite_37: 711762136
+      megasprite_38: -30973434
+      megasprite_39: 1731307750
+      megasprite_4: 1302933539
+      megasprite_40: -586205704
+      megasprite_41: 1752101126
+      megasprite_42: -1003239540
+      megasprite_43: -527732514
+      megasprite_44: 516823848
+      megasprite_45: 2142310963
+      megasprite_46: 1915842919
+      megasprite_47: 1140903306
+      megasprite_48: -25299051
+      megasprite_49: -1758660571
+      megasprite_5: 106079633
+      megasprite_50: 1831056871
+      megasprite_51: -1563508285
+      megasprite_52: 1331025797
+      megasprite_53: 87115967
+      megasprite_54: 1054061262
+      megasprite_55: -1758749085
+      megasprite_56: 22298445
+      megasprite_57: 2089847887
+      megasprite_58: 485079655
+      megasprite_59: -1577216034
+      megasprite_6: -995260763
+      megasprite_60: 82139544
+      megasprite_61: -844575362
+      megasprite_62: -592048278
+      megasprite_63: -1840750548
+      megasprite_64: -1865505334
+      megasprite_65: -1020641554
+      megasprite_66: 1046326459
+      megasprite_67: 1542709310
+      megasprite_68: 307711244
+      megasprite_69: 101907028
+      megasprite_7: -1396844636
+      megasprite_70: -1356434282
+      megasprite_71: -499173872
+      megasprite_72: 938282198
+      megasprite_73: 630868022
+      megasprite_74: 1520962192
+      megasprite_75: 1128027821
+      megasprite_76: -949421555
+      megasprite_77: -1495437868
+      megasprite_78: 1680456134
+      megasprite_79: -777103994
+      megasprite_8: 1555385657
+      megasprite_80: 490262972
+      megasprite_81: -1187560394
+      megasprite_82: 2063872162
+      megasprite_83: 299498377
+      megasprite_84: 1424524783
+      megasprite_85: 1932607306
+      megasprite_86: -160019077
+      megasprite_87: -664867915
+      megasprite_88: 546964038
+      megasprite_89: 188634951
+      megasprite_9: -524457357
+      megasprite_90: 204717033
+      megasprite_91: -1553518255
+      megasprite_92: -1123024704
+      megasprite_93: -1424413383
+      megasprite_94: 864158501
+      megasprite_95: 1063366854
+      megasprite_96: 18435705
+      megasprite_97: 859039592
+      megasprite_98: -1297563009
+      megasprite_99: 373125914
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
